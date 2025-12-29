@@ -4,9 +4,9 @@
 local vu1 = loadstring(game:HttpGet("https://raw.githubusercontent.com/SilencedHub/Azpazidehub/refs/heads/main/oempaloempa.lua"))()
 local v2 = vu1
 local v3 = vu1.MakeWindow(v2, {
-    ["Name"] = "Apazide Hub",
+    ["Name"] = "Silenced Hub",
     ["HidePremium"] = false,
-    ["IntroText"] = "Apazide Hub",
+    ["IntroText"] = "Silenced Hub",
     ["SaveConfig"] = false,
     ["ConfigFolder"] = "OrionTest"
 })
@@ -30,7 +30,7 @@ v4:AddButton({
         })
     end
 })
-v4:AddLabel("Creator: Casper")
+v4:AddLabel("Creator: Silent Mace")
 v4:AddLabel("None of the scripts in the hub are mine")
 v4:AddLabel("Updates might be slow, need to test scripts before adding them")
 v4:AddLabel("Hope you enjoy :)")
