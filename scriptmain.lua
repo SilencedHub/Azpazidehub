@@ -204,8 +204,8 @@ if v88 then
     v88 = not game:GetService("UserInputService").KeyboardEnabled
 end
 local vu89 = vu1:CreateWindow({
-    Title = "Silenced | BGSI",
-    SubTitle = "by soal",
+    Title = "Vanguard | BGSI",
+    SubTitle = "by Certificate.",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true,
@@ -1633,13 +1633,13 @@ v2:SetLibrary(vu1)
 v3:SetLibrary(vu1)
 v2:IgnoreThemeSettings()
 v2:SetIgnoreIndexes({})
-v3:SetFolder("Endless")
-v2:SetFolder("Endless/BGSI")
+v3:SetFolder("Vanguard")
+v2:SetFolder("Vanguard/BGSI")
 v3:BuildInterfaceSection(v94.Settings)
 v2:BuildConfigSection(v94.Settings)
 vu89:SelectTab(1)
 vu1:Notify({
-    Title = "Endless | BGSI",
+    Title = "Vanguard | BGSI",
     Content = "The script has been loaded.",
     Duration = 8
 })
